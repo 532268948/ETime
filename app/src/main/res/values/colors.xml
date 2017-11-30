@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="transport">#00ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#fe0909</color>
+    <color name="text_gray1">#bef0f0f0</color>
+    <color name="bottomline_gray1">#bef0f0f0</color>
+    <color name="transport_btn">#7affffff</color>
 </resources>
